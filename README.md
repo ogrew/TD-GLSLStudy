@@ -19,3 +19,7 @@
 ### [ShaderToy FX Coding: Twisted Toroid / The Art of Code](https://www.youtube.com/watch?v=rA9NmBRqfjI)
 
 ![TDMovieOut 3](https://user-images.githubusercontent.com/21966381/150940006-9483d560-4ac9-4da6-af84-2d445f1a64c2.png)
+
+### [Hexagonal Tiling Explained! / The Art of Code](https://www.youtube.com/watch?v=VmrIDyYiJBA)
+
+![TDMovieOut 3](https://user-images.githubusercontent.com/21966381/151270339-99a44dc6-c020-48c8-8151-436f3b4625ad.png)
