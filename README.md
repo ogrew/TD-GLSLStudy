@@ -23,3 +23,7 @@
 ### [Hexagonal Tiling Explained! / The Art of Code](https://www.youtube.com/watch?v=VmrIDyYiJBA)
 
 ![TDMovieOut 3](https://user-images.githubusercontent.com/21966381/151270339-99a44dc6-c020-48c8-8151-436f3b4625ad.png)
+
+### [Shader Coding: Truchet Tiling Explained! / The Art of Code](https://www.youtube.com/watch?v=2R7h76GoIJM)
+
+![TDMovieOut 4](https://user-images.githubusercontent.com/21966381/151995280-afa27134-f1c1-4f87-bcd0-ca94ed802f53.png)
